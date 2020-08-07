@@ -3,12 +3,12 @@ INF331 - Componentização e Reúso de Software
 
 Professor 
 ---------
-**André Santanchè
+* André Santanchè
 
 Aluno
 -----
-**Aruã Puertas Costa
+* Aruã Puertas Costa
 
 Laboratórios
 ------------
-*[Laboratório 1](link)
+* [Laboratório 1](link)
