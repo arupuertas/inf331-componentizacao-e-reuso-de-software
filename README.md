@@ -11,4 +11,4 @@ Aluno
 
 Laboratórios
 ------------
-* [Laboratório 1](link)
+* [Laboratório 1](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/laboratorio1)
