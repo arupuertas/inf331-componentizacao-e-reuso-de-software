@@ -6,7 +6,7 @@
 
 ## Tarefa sobre catálogo de componentes
 
-*  [Arquivo Notebook](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab02/components-01-catalog/components-01-catalog.ipynb)
+*  [Arquivo Notebook](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab02/notebook/components-01-catalog%20.ipynb)
 
 ## Tarefa Web Components 1
 ```
