@@ -9,6 +9,7 @@
 * Arquivo do notebook
 
 ## Tarefa Web Components 1
+'''
 
 <dcc-trigger label="Mundo"
              action="news/world/politics"
@@ -47,8 +48,9 @@
                  speech="I heard about a ">
   <subscribe-dcc topic="news/#"></subscribe-dcc>
 </dcc-lively-talk>
-
+'''
 ## Tarefa Web Components 2 
+'''
 
 <dcc-trigger label="Notícias" action="next/rss">
 </dcc-trigger>
@@ -88,3 +90,4 @@
                  speech="News ">
     <subscribe-dcc topic="rss/design"></subscribe-dcc>
 </dcc-lively-talk>
+'''
