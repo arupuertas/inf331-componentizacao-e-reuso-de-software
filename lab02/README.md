@@ -2,7 +2,7 @@
 
 * [Exercício - Catálogo de Componentes](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab02#tarefa-sobre-cat%C3%A1logo-de-componentes)
 * [Exercício - Web Components 1](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab02#tarefa-web-components-1)
-* [Exercício - web Components 2](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab02#tarefa-web-components-2) 
+* [Exercício - Web Components 2](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab02#tarefa-web-components-2) 
 
 ## Tarefa sobre catálogo de componentes
 
