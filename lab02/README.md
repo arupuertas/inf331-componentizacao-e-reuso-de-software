@@ -1,16 +1,15 @@
 # Lab02 - Data Flow & Mensagens
 
-* Tarefa sobre catálogo de componentes
-* Tarefa Web Components 1
-* Tarefa web Components 2 
+* Exercício - Catálogo de Componentes
+* Exercício - Web Components 1
+* Exercício - web Components 2 
 
 ## Tarefa sobre catálogo de componentes
 
-* Arquivo do notebook
+*  [Arquivo Notebook](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab02/components-01-catalog/components-01-catalog.ipynb)
 
 ## Tarefa Web Components 1
-'''
-
+```
 <dcc-trigger label="Mundo"
              action="news/world/politics"
              value="election usa">
@@ -48,10 +47,12 @@
                  speech="I heard about a ">
   <subscribe-dcc topic="news/#"></subscribe-dcc>
 </dcc-lively-talk>
-'''
-## Tarefa Web Components 2 
-'''
 
+```
+
+
+## Tarefa Web Components 2
+```
 <dcc-trigger label="Notícias" action="next/rss">
 </dcc-trigger>
 
@@ -90,4 +91,4 @@
                  speech="News ">
     <subscribe-dcc topic="rss/design"></subscribe-dcc>
 </dcc-lively-talk>
-'''
+```
