@@ -9,7 +9,7 @@
 *  [Arquivo Notebook](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab02/notebook/components-01-catalog%20.ipynb)
 
 ## Tarefa Web Components 1
-```
+```html
 <dcc-trigger label="Mundo"
              action="news/world/politics"
              value="election usa">
@@ -52,7 +52,7 @@
 
 
 ## Tarefa Web Components 2
-```
+``` html
 <dcc-trigger label="Notícias" action="next/rss">
 </dcc-trigger>
 
