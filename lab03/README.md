@@ -21,8 +21,7 @@
 
 ### Tela 1 - Nenhum produto selecionado.
 
-[![Nenhum produto selecionado](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Pagina%20principal.jpg)]
-(https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Pagina%20principal.jpg)
+[![Nenhum produto selecionado](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Pagina%20principal.jpg)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Pagina%20principal.jpg)
 
 ### Tela 2 - Primeiro produto selecionado.
 
