@@ -5,14 +5,11 @@
 
 ## Tarefa 1 - Diagrama de Pedido
 
-[![Diagrama de Pedido](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-
-software/upload/master/lab03/images)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-
-software/upload/master/lab03/images)
+[![Diagrama de Pedido](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/upload/master/lab03/images)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/upload/master/lab03/images)
 
 ## Tarefa 2 - Diagrama do Leilão
 
-[![Diagrama do Leilão](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-
-software/blob/master/lab03/images/Diagrama%20de%20leil%C3%A3o.png)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Diagrama%20de%20leil%C3%A3o.png)
+[![Diagrama do Leilão](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Diagrama%20de%20leil%C3%A3o.png)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Diagrama%20de%20leil%C3%A3o.png)
 
 ## Tarefa 3 - MIT App Inevntor - MarketPlace
 
