@@ -38,3 +38,8 @@
 ### Tela 5 - Diagrama de blocos do aplicativo.
 
 [![Diagrama de blocos do aplicativo](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Bloco%20MIT%20App.PNG)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab03/images/Bloco%20MIT%20App.PNG)
+
+## Tarefa 4 - Equipe 7 MVC
+
+* [Link Tarefa 4 - Equipe 7 MVC]()
+
