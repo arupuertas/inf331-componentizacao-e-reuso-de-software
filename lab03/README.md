@@ -41,5 +41,5 @@
 
 ## Tarefa 4 - Equipe 7 MVC
 
-* [Link Tarefa 4 - Equipe 7 MVC]()
+* [Link Tarefa 4 - Equipe 7 MVC](https://github.com/inf331-equipe7/tarefas)
 
