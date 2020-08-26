@@ -24,7 +24,7 @@ contendo nome, URL, título.
 https://any-api.com:8443/https://www.poemist.com/api/v1/randompoems
 	
  * **Cabeçalho HTTP da chamada:**
- 
+ ~~~http
 GET /https://www.poemist.com/api/v1/randompoems HTTP/2
 Host: any-api.com:8443
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
@@ -35,9 +35,9 @@ Origin: https://any-api.com
 Connection: keep-alive
 Referer: https://any-api.com/poemist_com/poemist_com/console/_randompoems/randompoems
 TE: Trailers
-	
+~~~
  * **Cabeçalho HTTP da resposta:**
-
+~~~http
 access-control-allow-origin: *
 cache-control: no-cache, private, max-age=172800
 content-type: application/json
@@ -48,10 +48,10 @@ vary: Origin
 x-final-url: https://www.poemist.com/api/v1/randompoems
 x-ratelimit-limit: 20
 x-ratelimit-remaining: 18
-
+~~~
 
 #### * Conteúdo da resposta:
-
+~~~json
 [
   {
     "title": "The Last Song Of Camoens",
@@ -99,6 +99,6 @@ x-ratelimit-remaining: 18
     }
   }
 ]
-
+~~~
  
 
