@@ -10,16 +10,21 @@
 
 ### Serviços 
 
- * Título do serviço: Poemist
+#### * Título do serviço:
  
- * Breve descrição
-	Serviço não recebe informação nenhuma e retorna uma lista de poemas aleatórios
-	contendo nome, URL, título	
+ Poemist
+ 
+#### * Breve descrição:
+ 
+Serviço não recebe informação nenhuma e retorna uma lista de poemas aleatórios
+contendo nome, URL, título.	
 	
- * URL completa da requisição
-	https://any-api.com:8443/https://www.poemist.com/api/v1/randompoems
+#### * URL completa da requisição:
+ 
+https://any-api.com:8443/https://www.poemist.com/api/v1/randompoems
 	
- * Cabeçalho HTTP da chamada:
+#### * Cabeçalho HTTP da chamada:
+ 
 GET /https://www.poemist.com/api/v1/randompoems HTTP/2
 Host: any-api.com:8443
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
@@ -31,7 +36,7 @@ Connection: keep-alive
 Referer: https://any-api.com/poemist_com/poemist_com/console/_randompoems/randompoems
 TE: Trailers
 	
- * Cabeçalho HTTP da resposta:
+#### * Cabeçalho HTTP da resposta:
 
 access-control-allow-origin: *
 cache-control: no-cache, private, max-age=172800
@@ -45,7 +50,7 @@ x-ratelimit-limit: 20
 x-ratelimit-remaining: 18
 
 
- * Conteúdo da resposta:
+#### * Conteúdo da resposta:
 
 [
   {
