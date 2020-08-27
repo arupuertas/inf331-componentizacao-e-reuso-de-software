@@ -2,9 +2,15 @@
 
 ## Tarefa 1
 
+[![Lab04 - Tarefa 1 img](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%201.png)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%201.png)
+
 ## Tarefa 2
 
+[![Lab04 - Tarefa 2 img]()]()
+
 ## Tarefa 3
+
+[![Lab04 - Tarefa 3 img]()]()
 
 ## Tarefa 4
 
