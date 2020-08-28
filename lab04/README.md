@@ -4,8 +4,8 @@
 * [Lab04 - Tarefa 2](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab04#tarefa-2)
 * [Lab04 - Tarefa 3](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab04#tarefa-3)
 * [Lab04 - Tarefa 4](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab04#tarefa-4)
-	* [Serviço 1 - AnyAPI]()
-	* [Serviço 2 - AnyAPI]()
+	* [Serviço 1 - AnyAPI - Poemist](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab04#servi%C3%A7o-1)
+	* [Serviço 2 - AnyAPI - FireBrowse Beta API](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab04#servi%C3%A7o-2)
 
 
 ## Tarefa 1
