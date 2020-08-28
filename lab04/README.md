@@ -24,7 +24,7 @@
 
 ### Serviços 
 
-#### Serviço 1
+### Serviço 1
 
 * **Título do serviço:**
  
@@ -117,6 +117,71 @@ x-ratelimit-remaining: 18
 ]
 ~~~
 
-#### Serviço 2 
+### Serviço 2 
+
+* **Título do serviço:**
+ 
+ FireBrowse Beta API
+ 
+* **Breve descrição:**
+ 
+O serviço da acesso a dados sobre câncer, ele pede parâmetros de formato, tipo de câncer, gene, código de barra do genoma do câncer.
+Para a pesquisa foram colocados os parâmetros:
+Format: json;
+Cohort: ACC;
+Gene: Não preenchido;
+TCGA_Participant_Barcode: TGCA_GF_A4EO
+	
+ * **URL completa da requisição:**
+ 
+https://any-api.com:8443/http://firebrowse.org/api/v1/Analyses/CopyNumber/Genes/All?format=json&cohort=ACC&tcga_participant_barcode=TCGA-GF-A4EO&sort_by=cohort
+	
+ * **Cabeçalho HTTP da chamada:**
+ ~~~http
+GET /http://firebrowse.org/api/v1/Analyses/CopyNumber/Genes/All?format=json&cohort=ACC&tcga_participant_barcode=TCGA-GF-A4EO&sort_by=cohort HTTP/2
+Host: any-api.com:8443
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: application/json
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Origin: https://any-api.com
+Connection: keep-alive
+Referer: https://any-api.com/firebrowse_org/firebrowse_org/console/Analyses/All
+TE: Trailers
+~~~
+ * **Cabeçalho HTTP da resposta:**
+~~~http
+HTTP/2 200 OK
+date: Fri, 28 Aug 2020 01:10:27 GMT
+content-type: text/html; charset=utf-8
+set-cookie: __cfduid=dc788329fc8d33e074714630181df96511598577027; expires=Sun, 27-Sep-20 01:10:27 GMT; path=/; domain=.any-api.com; HttpOnly; SameSite=Lax
+x-request-url: http://firebrowse.org/api/v1/Analyses/CopyNumber/Genes/All?format=json&cohort=ACC&tcga_participant_barcode=TCGA-GF-A4EO&sort_by=cohort
+access-control-allow-origin: *
+access-control-allow-methods: HEAD, GET
+access-control-max-age: 21600
+vary: Accept-Encoding
+x-final-url: http://firebrowse.org/api/v1/Analyses/CopyNumber/Genes/All?format=json&cohort=ACC&tcga_participant_barcode=TCGA-GF-A4EO&sort_by=cohort
+access-control-expose-headers: date,server,access-control-allow-origin,access-control-allow-methods,access-control-max-age,vary,content-encoding,content-length,content-type,connection,x-final-url
+cf-cache-status: DYNAMIC
+cf-request-id: 04d436c0370000f5dbe512f200000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 5c9a27138b37f5db-GRU
+content-encoding: br
+X-Firefox-Spdy: h2
+~~~
+
+#### * Conteúdo da resposta:
+~~~json
+access-control-allow-methods: HEAD, GET
+access-control-allow-origin: *
+access-control-max-age: 21600
+content-encoding: br
+content-type: text/html; charset=utf-8
+date: Fri, 28 Aug 2020 01:10:27 GMT
+server: cloudflare
+vary: Accept-Encoding
+x-final-url: http://firebrowse.org/api/v1/Analyses/CopyNumber/Genes/All?format=json&cohort=ACC&tcga_participant_barcode=TCGA-GF-A4EO&sort_by=cohort
+~~~
  
 
