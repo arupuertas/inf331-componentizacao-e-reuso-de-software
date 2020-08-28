@@ -18,7 +18,7 @@
 
 ## Tarefa 3
 
-[![Lab04 - Tarefa 3 img](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%203.png)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%203.png)
+[![Lab04 - Tarefa 3 img](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%203.PNG)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab04/images/Lab04%20-%20Tarefa%203.PNG)
 
 ## Tarefa 4
 
