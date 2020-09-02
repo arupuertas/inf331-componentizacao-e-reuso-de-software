@@ -19,5 +19,5 @@ Laboratórios Individuais
 
 Laboratórios Grupo 7 
 ------------
-* [Laboratório 3 - Grupo 7 ](https://github.com/inf331-equipe7/tarefas)
+* [Laboratório 3 - Equipe 7 ](https://github.com/inf331-equipe7/tarefas)
 
