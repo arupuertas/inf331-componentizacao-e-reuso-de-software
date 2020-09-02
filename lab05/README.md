@@ -9,7 +9,7 @@
 
 ## Tarefa 1
 
-**Utilizando ProductView e ProductSelectionController**
+**Utilizando os componentes ProductViewComponent e ProductSelectionControllerComponent**
 
 [![Lab05 - Tarefa 1 img](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab05/images/Diagrama%20Lab05%20-%20Tarefa%201.PNG)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab05/images/Diagrama%20Lab05%20-%20Tarefa%201.PNG)
 
