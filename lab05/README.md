@@ -1,13 +1,15 @@
 # Modelo para Apresentação do Lab05 - Subcomponentes e Páginas Dinâmicas
 
-* [Lab05 - Tarefa 1](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab05/images/Diagrama%20Lab05%20-%20Tarefa%201.PNG)
-* [Lab05 - Tarefa 2]()
-	* [Codepen]()
-	* [HTML]()
-  * [JavaScript]()
+* [Lab05 - Tarefa 1](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#tarefa-1)
+* [Lab05 - Tarefa 2](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#tarefa-2)
+	* [Codepen](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#codepen---c%C3%B3digo-component)
+	* [HTML](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#html)
+  * [JavaScript](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#javascript)
 
 
 ## Tarefa 1
+
+**Utilizando ProductView e ProductSelectionController**
 
 [![Lab05 - Tarefa 1 img](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab05/images/Diagrama%20Lab05%20-%20Tarefa%201.PNG)](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/blob/master/lab05/images/Diagrama%20Lab05%20-%20Tarefa%201.PNG)
 
