@@ -19,7 +19,7 @@
 
 ### Link Para o Projeto no Codepen
 
-Link para o projeto no Codepen:[Lab05 - Tarefa 2 - Codepen](https://codepen.io/arupuertas/pen/JjXrGGe)
+Link para o projeto no Codepen:[ Lab05 - Tarefa 2 - Codepen](https://codepen.io/arupuertas/pen/JjXrGGe)
 
 ### Codepen - Código Component
 
