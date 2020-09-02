@@ -2,11 +2,11 @@
 
 * [Lab05 - Tarefa 1](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#tarefa-1)
 * [Lab05 - Tarefa 2](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#tarefa-2)
-	* [Link Para o Projeto no Codepen](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#codepen---c%C3%B3digo-component)
+	* [Link Para o Projeto no Codepen](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#link-para-o-projeto-no-codepen)
 	* [Codepen](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#codepen---c%C3%B3digo-component)
 	* [HTML](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#html)
 	* [CSS](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#css)
-        * [JavaScript](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#javascript)
+   * [JavaScript](https://github.com/arupuertas/inf331-componentizacao-e-reuso-de-software/tree/master/lab05#javascript)
 
 
 ## Tarefa 1
