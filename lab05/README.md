@@ -17,35 +17,161 @@
 
 ### Codepen - Código Component
 
-~~~javascript
+**HTML**
 
+~~~html
+
+<h3> Informações Klebinho </h3>
+
+<ul data-list></ul>
 
 ~~~
+
+**JavaScript**
+
+~~~javascript
+
+const data = [
+    {
+        inf: 'Klebinho o Gato',
+        id: 'Nome:'
+    },
+    {
+        inf: 'Laranja',
+        id: 'Cor:'
+    },
+    {
+        inf: '4 Anos',
+        id: 'Idade: '
+    },
+    {
+        inf: 'João da Silva',
+        id: 'Dono:'
+    }
+]
+
+const listComponent = (data) => {
+    return data.map((item) => {
+        return (
+            `
+            <li>
+                <span>${ item.id }</span>
+                <span>${ item.inf }</span>
+            </li>
+            `
+        )
+    }).join('')
+}
+
+const el = document.querySelector('[data-list]')
+
+el.innerHTML = listComponent(data)
+
+~~~
+
+## Código Final Codepen
 
 ### HTML
 
 ~~~html
+
 <div id="root"></div>
+
+<div class="OGatoKlebinho">
+        <img src="https://clickerclubsp.com.br/wp-content/uploads/2019/03/gatos-fuga-comportamento-animal.jpg" alt="">
+      </div>
+
+<h3> Informações Klebinho </h3>
+
+<ul data-list></ul>
+
+~~~
+
+### CSS
+
+~~~css
+
+h1{
+  font-style: italic;
+  Color: Orange;
+}
+
+h2{
+  font-style: italic;
+  Color: Blue;
+}
+
+h3{
+  font-style: italic;
+  Color: red;
+}
+.OGatoKlebinho img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
 ~~~
 
 ### JavaScript
 
 ~~~javascript
+
 class Barra extends React.Component {
   render() {
     let resultado = "";
     for (let b = 1; b <= this.props.tamanho; b++)
-      resultado += "=";
+     resultado += "=";
     return resultado;
-  }
+ }
 }
 
-const elemento = <div>
-                   <h2>O dinossauro</h2>
-                   <Barra tamanho="10"/>
-                   <h2>pulou na lama.</h2>
-                 </div>
-ReactDOM.render(elemento, 
+const elemento =  <div>
+        
+                  <h1> Klebinho o Gato Laranja</h1>
+                   <Barra tamanho="38"/>
+                   <h2> Pulou a Cerca Azul.</h2>
+       </div>
+
+      ReactDOM.render(elemento, 
         document.getElementById("root"));
+
+const data = [
+    {
+        inf: 'Klebinho o Gato',
+        id: 'Nome:'
+    },
+    {
+        inf: 'Laranja',
+        id: 'Cor:'
+    },
+    {
+        inf: '4 Anos',
+        id: 'Idade: '
+    },
+    {
+        inf: 'João da Silva',
+        id: 'Dono:'
+    }
+]
+
+const listComponent = (data) => {
+    return data.map((item) => {
+        return (
+            `
+            <li>
+                <span>${ item.id }</span>
+                <span>${ item.inf }</span>
+            </li>
+            `
+        )
+    }).join('')
+}
+
+const el = document.querySelector('[data-list]')
+
+el.innerHTML = listComponent(data)
+
 ~~~
 
